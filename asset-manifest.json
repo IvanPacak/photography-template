@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/photography-template/static/css/main.1f7713b2.css",
+    "main.js": "/photography-template/static/js/main.56300c3d.js",
+    "static/media/boudoir_1.jpg": "/photography-template/static/media/boudoir_1.b7a6173ddaa5bcb23f6e.jpg",
+    "static/media/profile_1.jpg": "/photography-template/static/media/profile_1.ac087c806596596d8cb5.jpg",
+    "static/media/family_2.jpg": "/photography-template/static/media/family_2.077d0d582e48f666ab22.jpg",
+    "static/media/wedding_1.jpg": "/photography-template/static/media/wedding_1.f004785974fd58798c93.jpg",
+    "static/media/wedding_2.jpg": "/photography-template/static/media/wedding_2.a35aeb9ff817692497ef.jpg",
+    "static/media/newborn_1.jpg": "/photography-template/static/media/newborn_1.fc1252f6a85fe6894635.jpg",
+    "static/media/family_1.jpg": "/photography-template/static/media/family_1.76d746ec90768a75a3ac.jpg",
+    "static/media/newborn_2.jpg": "/photography-template/static/media/newborn_2.6ae79a39a53100f2e67f.jpg",
+    "static/media/portrait_1.jpg": "/photography-template/static/media/portrait_1.144bacde8f890c98b763.jpg",
+    "static/media/boudoir_2.jpg": "/photography-template/static/media/boudoir_2.da864bc7ce10ef083936.jpg",
+    "static/media/portrait_2.jpg": "/photography-template/static/media/portrait_2.7dba77d1ced9a60bcad0.jpg",
+    "index.html": "/photography-template/index.html",
+    "main.1f7713b2.css.map": "/photography-template/static/css/main.1f7713b2.css.map",
+    "main.56300c3d.js.map": "/photography-template/static/js/main.56300c3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f7713b2.css",
+    "static/js/main.56300c3d.js"
+  ]
+}
