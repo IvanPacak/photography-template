@@ -1,0 +1,25 @@
+.slider{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  top: 50px;
+  overflow: hidden;
+  max-width: 500px;
+}
+
+.slideshow{
+  white-space: nowrap;
+  transition: ease 1000ms;
+}
+
+.slider-item{
+  display: inline-block;
+  height: 400px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+  

@@ -1,0 +1,111 @@
+.contact-form{
+    position: relative;
+    margin: 50px auto;
+    width: 70%;
+    max-width: 90%;
+  }
+  
+  .contact-input{
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 1px solid rgb(0, 0, 0, 0.3);
+    padding: 5px 10px;
+    font-style: 'Century Gothic';
+    font-size: 15px;
+    color: #262626;
+    outline: none;
+    transition: .3s;
+  }
+  
+  .contact-input:focus{
+    border: 1px solid #2196F3;
+  }
+  
+  ::placeholder{
+    font-style: 'Century Gothic';
+    font-size: 15px;
+  }
+  
+  .contact-submit-btn{
+    cursor: pointer;
+    background: none;
+    color: rgb(0, 0, 0, 0.5);
+    font-weight: bold;
+  }
+  
+  .contact-submit-btn:hover{
+    background-color: rgb(0, 0, 0, 0.3);
+    color: white
+  }
+  
+  .contact-social{
+   margin-left: -70px;
+   width: 100px;
+   padding: 0;
+   display: inline-table;
+   transition-property: margin-left;
+   transition-duration: 0.2s;
+   transition-delay: 0.2s;
+   -moz-transition-property: margin-left;
+   -moz-transition-duration: 0.2s;
+   -moz-transition-delay: 0.2s;
+   -ms-transition-property: margin-left;
+   -ms-transition-duration: 0.2s;
+   -ms-transition-delay: 0.2s;
+   -o-transition-property: margin-left;
+   -o-transition-duration: 0.2s;
+   -o-transition-delay: 0.2s;
+   -webkit-transition-property: margin-left;
+   -webkit-transition-duration: 0.2s;
+   -webkit-transition-delay: 0.2s;
+   box-shadow: 0px 0px 6px 0px #3E3D3D;
+   cursor: pointer;
+  }
+  
+  .contact-social:hover {
+    margin-left: -30px;
+    width: 100px;
+  }
+  
+  #sidebar-facebook{
+    background-color: #3b5998;
+  }
+  
+  #sidebar-instagram{
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  }
+  
+  #sidebar-email{
+    background-color: #DD4B39;
+  }
+  
+  .contact-social a{
+    text-decoration: none;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 3;
+    background: none;
+  }
+  
+  #contact-sidebar{
+    height: 250px;
+    width: 10px;
+    position: fixed;
+    text-align: center;
+    padding: 10px;
+    margin-left: 10px;
+    top: 40%;
+  }
+  
+  .contact-social a i{
+    left: 25px;
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 24px;
+    background: none;
+    color: white;
+  }
+  
